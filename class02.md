@@ -1,6 +1,3 @@
-# Read 1: MACSS and Responsive Web Design
-<hr>
-<hr>
 
 ## JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357:
 
