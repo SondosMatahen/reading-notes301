@@ -10,4 +10,6 @@ class | linke
 6. class06   | [link 6](class06.md)
 7. class07   | [link 7](class07.md)
 8. class08   | [link 8](class08.md)
+9. class09   | [link 9](class09.md)
+10. class10  | [link 10](class10.md)
 
